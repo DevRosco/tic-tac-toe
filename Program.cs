@@ -1,6 +1,6 @@
 ﻿
 
-// this has comment in branch test
+// this has commentin master actualy now
 string userInput;
 char input;
 char player = 'O';
