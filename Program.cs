@@ -1,4 +1,7 @@
 ﻿
+// this is new commnet in new branch
+//using vs with github
+
 string userInput;
 char input;
 char player = 'O';
